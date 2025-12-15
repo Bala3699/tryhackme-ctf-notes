@@ -1,1 +1,3 @@
-# tryhackme-ctf-notes
+# tryhackme-ctf-
+
+- 📄 [nslookup Tool Documentation](recon-tools/nslookup.md)
