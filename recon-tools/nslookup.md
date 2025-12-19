@@ -45,7 +45,12 @@ Example:
 ```
 nslookup example.com
 ```
-
+```
+nslookup --type=CNAME example.com
+nslookup --type=MX example.com
+nslookup --type=A example.com
+nslookup --type=TXT example.com
+```
 ---
 
 ## 🔍 Information That Can Be Retrieved
