@@ -1,6 +1,5 @@
 # tryhackme-ctf-
 
-- 📄 [nslookup Tool Documentation](recon-tools/nslookup.md)
 # 🛡️ TryHackMe Cybersecurity Learning Project
 
 ## 📌 Overview
@@ -46,6 +45,9 @@ It includes practical exposure to networking, Linux, and security fundamentals t
 B.Tech CSE (Cybersecurity)
 
 ---
+
+
+- 📄 [nslookup Tool Documentation](recon-tools/nslookup.md)
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only.
