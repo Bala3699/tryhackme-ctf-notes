@@ -35,9 +35,12 @@ It includes practical exposure to networking, Linux, and security fundamentals t
 ### 🏅 TryHackMe Badge
 ![TryHackMe Badge](Screenshots/badge.png)
 
+![TryHackMe Badge](https://github.com/Bala3699/tryhackme-ctf-notes/blob/main/Screenshots/Screenshot%202025-12-20%20213323.png)
 ### ✅ Room Completion
 ![Room Completion](Screenshots/Screenshot%202025-12-19%20094015.png)
+
 ![Room Completion](Screenshots/Screenshot%202025-12-19%20094029.png)
+
 ![Room Completion](Screenshots/Screenshot%202025-12-19%20094140.png)
 
 ---
