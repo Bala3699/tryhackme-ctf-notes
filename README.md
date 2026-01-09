@@ -56,7 +56,7 @@ B.Tech CSE (Cybersecurity)
 ---
 
 
-- 📄 
+- 📄 [TryHackMe-Documentation](https://github.com/Bala3699/tryhackme-ctf-notes)
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only.
