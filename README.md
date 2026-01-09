@@ -36,6 +36,10 @@ It includes practical exposure to networking, Linux, and security fundamentals t
 ![TryHackMe Badge](Screenshots/badge.png)
 
 ![TryHackMe Badge](https://github.com/Bala3699/tryhackme-ctf-notes/blob/main/Screenshots/Screenshot%202025-12-20%20213323.png)
+![TryHackMe Badge](https://github.com/Bala3699/tryhackme-ctf-notes/blob/main/Screenshots/Screenshot%202025-12-22%20221230.png)
+
+<br>
+
 ### ✅ Room Completion
 ![Room Completion](Screenshots/Screenshot%202025-12-19%20094015.png)
 
@@ -52,7 +56,7 @@ B.Tech CSE (Cybersecurity)
 ---
 
 
-- 📄 [nslookup Tool Documentation](recon-tools/nslookup.md)
+- 📄 
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only.
