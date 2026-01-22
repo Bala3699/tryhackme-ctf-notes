@@ -203,6 +203,6 @@ All actions were performed in a **controlled TryHackMe lab environment**.
 
 ## 👨‍💻 Author
 
-**Balamutugan**
+**Balamurugan**
 Cybersecurity | Ethical Hacking | Cloud Security
 TryHackMe Learner 🚀
